@@ -1,0 +1,10 @@
+target_sources(surround_system
+        PUBLIC
+        ${CMAKE_CURRENT_SOURCE_DIR}/helper_cuda.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/helper_functions.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/helper_image.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/helper_math.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/helper_multiprocess.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/helper_multiprocess.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/helper_string.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/helper_timer.h)

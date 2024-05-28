@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<transR type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    0. 1. 0. 0. 0. 1. 1. 0. 0.</data></transR>
+<transT type_id="opencv-matrix">
+  <rows>4</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    0. 2. -1. 1.</data></transT>
+<RT type_id="opencv-matrix">
+  <rows>4</rows>
+  <cols>4</cols>
+  <dt>d</dt>
+  <data>
+    0. 1. 0. 0. 0. 0. 1. 2. 1. 0. 0. -1. 0. 0. 0. 1.</data></RT>
+</opencv_storage>
